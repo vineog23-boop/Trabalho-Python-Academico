@@ -1,13 +1,14 @@
 # Trabalho-Python-Academico
 
-Este repositório contém um projeto acadêmico desenvolvido em Python, focado em aplicar conceitos de raciocínio computacional e lógica de programação. O projeto demonstra a capacidade de resolver problemas e implementar soluções funcionais em um ambiente de desenvolvimento.
+## O que é
+
+Este repositório apresenta um projeto acadêmico desenvolvido em Python, com o objetivo de aplicar e consolidar conceitos de raciocínio computacional e lógica de programação. Ele demonstra a capacidade de desenvolver soluções funcionais para problemas específicos, utilizando a linguagem Python.
 
 ## O que eu pratiquei aqui
 
 - **Lógica de Programação:** Desenvolvimento de algoritmos para resolver problemas específicos.
 - **Estruturas de Dados:** Utilização de listas e outras estruturas básicas do Python.
-- **Manipulação de Arquivos:** Leitura e escrita de dados em arquivos (se aplicável ao projeto).
-- **Funções e Módulos:** Organização do código em funções reutilizáveis.
+- **Organização de Código:** Estruturação do código em funções para modularidade e reuso.
 
 ## Tecnologias
 
@@ -28,17 +29,15 @@ Para executar este projeto, siga os passos abaixo:
     ```
 3.  **Execute o script principal:**
     ```bash
-    python3 aula.py
+    python3 projeto_python.py
     ```
-    *(Substituí `seu_script_principal.py` por `aula.py` com base no conteúdo anterior do README.)*
 
 ## Estrutura do projeto
 
 ```
 Trabalho-Python-Academico/
-├── src/                      # Pasta contendo os arquivos fonte do projeto
-│   └── aula.py
-├── .gitignore                # Arquivo para ignorar arquivos e pastas desnecessárias
+├── projeto_python.py         # Script principal do projeto
+├── LICENSE                   # Licença do projeto
 └── README.md                 # Este arquivo
 ```
 
@@ -51,3 +50,4 @@ Concluído como parte de um requisito acadêmico.
 - Refatorar o código para melhorar a legibilidade e a manutenibilidade.
 - Adicionar testes unitários para as principais funcionalidades.
 - Explorar a criação de uma interface gráfica simples para o projeto.
+- Adicionar comentários explicativos ao código para facilitar o entendimento.
